@@ -7,7 +7,7 @@ __pycache__/
 
 data/chroma/
 data/processed/
-data/raw/papers/*.pdf
 
 *.log
+data/raw/papers/*.pdf
 
