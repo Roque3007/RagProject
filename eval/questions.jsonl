@@ -1,0 +1,10 @@
+{"question": "What is self-attention?", "expected_papers": ["attention_is_all_you_need"]}
+{"question": "How does RAG reduce hallucinations?", "expected_papers": ["rag_knowledge_intensive"]}
+{"question": "What is ReAct?", "expected_papers": ["react"]}
+{"question": "How does Self-RAG decide when to retrieve?", "expected_papers": ["self_rag"]}
+{"question": "What problem does Toolformer solve?", "expected_papers": ["tool_former"]}
+{"question": "What is multi-head attention?", "expected_papers": ["attention_is_all_you_need"]}
+{"question": "How does RAG combine retrieval and generation?", "expected_papers": ["rag_knowledge_intensive"]}
+{"question": "What are reflection tokens in Self-RAG?", "expected_papers": ["self_rag"]}
+{"question": "How does ReAct combine reasoning and acting?", "expected_papers": ["react"]}
+{"question": "How does Toolformer learn to use tools?", "expected_papers": ["tool_former"]}
